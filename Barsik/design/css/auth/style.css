@@ -1,0 +1,31 @@
+.form-auto {
+    max-width: 300px;
+    margin: 30px auto;
+    padding: 0px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.form-auto input, .form-auto button {
+    width: 100%;
+    margin-bottom: 8px;
+}
+.form-auto input {
+    border: 2px solid #0abab5;
+    padding: 8px;
+    border-radius: 8px;
+}
+.form-auto button {
+    background-color: #0abab5;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.form-auto button:hover {
+    background-color: #08a2a0;
+}
+.form-auto a {
+    color: #0abab5;
+}
